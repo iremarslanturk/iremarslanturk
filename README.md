@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İrem.</h1>
 
-- 🔭 I’m improving myself at **C#, .NET Core, ASP.NET MVC Development.**
-- 🌱 I’m currently learning **Blazor, Unity.**
+- 🔭 I’m improving myself at **C#, .NET Core, ASP.NET MVC Development, Unity.**
+- 🌱 I’m currently learning **Html, css, js.**
 
 
 <h3 align="left">Connect with me:</h3>
